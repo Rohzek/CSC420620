@@ -1,0 +1,12 @@
+Apple
+Apricot
+Banana
+Coconut
+Kiwi
+Mango
+Nectarine
+Orange
+Pear
+Watermelon
+
+Sorting took: 0ms
